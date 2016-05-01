@@ -157,6 +157,7 @@ UART0_S1_CLEAR_FLAGS  EQU  0x1F
 UART0_S2_NO_RXINV_BRK10_NO_LBKDETECT_CLEAR_FLAGS  EQU  0xC0
 ;---------------------------------------------------------------
 
+
 ;****************************************************************
 ;Program
 ;Linker requires Reset_Handler
