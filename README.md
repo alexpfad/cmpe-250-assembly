@@ -13,12 +13,21 @@ Templates provided by the RIT Computer Engineering Department. Supporting files 
 
 # Exercises:
 04 - Iteration and Subroutines
+
 05 - Polled Serial I/O
+
 06 - Secure String I/O and Number Output
+
 07 - Circular FIFO Queue Operations
+
 08 - String Operations
+
 09 - Serial I/O Driver
+
 10 - Timer Driver Input Timing
+
 11 - Multiprecision Addition with Mixed C and Assembly
+
 12 - D/A and A/D conversion, PWM, and Servos with Mixed C and Assembly
+
 13 - Game with LEDs
