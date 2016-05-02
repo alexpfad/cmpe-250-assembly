@@ -45,7 +45,8 @@ NUM_ENQD    EQU     17
 DIVmil		EQU		1000000             ; needed for PutNumU
 DIVhund		EQU		100000              ; needed for PutNumU
 DIVten		EQU		10000               ; needed for PutNumU
-DIVthou		EQU		1000                ; needed for PutNumU    
+DIVthou		EQU		1000                ; needed for PutNumU  
+
 ;****************************************************************
 ;Program
 ;Linker requires Reset_Handler
